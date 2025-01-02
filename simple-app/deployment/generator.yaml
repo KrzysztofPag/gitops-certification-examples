@@ -17,7 +17,7 @@ spec:
       source:
         repoURL: https://github.com/KrzysztofPag/gitops-certification-examples
         targetRevision: HEAD
-        path: ./simple-app/deployment
+        path: ./simple-app/manifest
       
       # Destination cluster and namespace to deploy the application
       destination:
